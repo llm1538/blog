@@ -1,0 +1,7 @@
+[submodule "modular.khiat/themes/hugo-theme-console"]
+	path = modular.khiat/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "modular.khiat/public/alltext.github.io"]
+	path = modular.khiat/public/alltext.github.io
+	url = https://github.com/llm1538/alltext.github.io.git
+	branch = main
