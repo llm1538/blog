@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'modular.khiat'
+theme = 'hugo-theme-console'
